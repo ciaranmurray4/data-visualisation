@@ -1,0 +1,571 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Labour force participation rate,2019,21.8,Female,,%,Normal value,,,15 years old and over
+Afghanistan,AF,AFG,4,Labour force participation rate,2019,74.5,Male,,%,Normal value,,,15 years old and over
+Afghanistan,AF,AFG,4,Labour force participation rate,2019,48.9,Total,,%,Normal value,,,15 years old and over
+Albania,AL,ALB,8,Labour force participation rate,2019,52.5,Female,,%,Normal value,,,15 years old and over
+Albania,AL,ALB,8,Labour force participation rate,2019,68,Male,,%,Normal value,,,15 years old and over
+Albania,AL,ALB,8,Labour force participation rate,2019,60.3,Total,,%,Normal value,,,15 years old and over
+Algeria,DZ,DZA,12,Labour force participation rate,2019,17,Female,,%,Normal value,,,15 years old and over
+Algeria,DZ,DZA,12,Labour force participation rate,2019,67.8,Male,,%,Normal value,,,15 years old and over
+Algeria,DZ,DZA,12,Labour force participation rate,2019,42.5,Total,,%,Normal value,,,15 years old and over
+Angola,AO,AGO,24,Labour force participation rate,2019,76.1,Female,,%,Normal value,,,15 years old and over
+Angola,AO,AGO,24,Labour force participation rate,2019,78.8,Male,,%,Normal value,,,15 years old and over
+Angola,AO,AGO,24,Labour force participation rate,2019,77.4,Total,,%,Normal value,,,15 years old and over
+Argentina,AR,ARG,32,Labour force participation rate,2019,51.3,Female,,%,Normal value,,,15 years old and over
+Argentina,AR,ARG,32,Labour force participation rate,2019,72.7,Male,,%,Normal value,,,15 years old and over
+Argentina,AR,ARG,32,Labour force participation rate,2019,61.6,Total,,%,Normal value,,,15 years old and over
+Armenia,AM,ARM,51,Labour force participation rate,2019,42.9,Female,,%,Normal value,,,15 years old and over
+Armenia,AM,ARM,51,Labour force participation rate,2019,64.9,Male,,%,Normal value,,,15 years old and over
+Armenia,AM,ARM,51,Labour force participation rate,2019,52.9,Total,,%,Normal value,,,15 years old and over
+Australia,AU,AUS,36,Labour force participation rate,2019,60.8,Female,,%,Normal value,,,15 years old and over
+Australia,AU,AUS,36,Labour force participation rate,2019,71.2,Male,,%,Normal value,,,15 years old and over
+Australia,AU,AUS,36,Labour force participation rate,2019,65.9,Total,,%,Normal value,,,15 years old and over
+Austria,AT,AUT,40,Labour force participation rate,2019,55.2,Female,,%,Normal value,,,15 years old and over
+Austria,AT,AUT,40,Labour force participation rate,2019,66.7,Male,,%,Normal value,,,15 years old and over
+Austria,AT,AUT,40,Labour force participation rate,2019,60.8,Total,,%,Normal value,,,15 years old and over
+Azerbaijan,AZ,AZE,31,Labour force participation rate,2019,63.3,Female,,%,Normal value,,,15 years old and over
+Azerbaijan,AZ,AZE,31,Labour force participation rate,2019,69.9,Male,,%,Normal value,,,15 years old and over
+Azerbaijan,AZ,AZE,31,Labour force participation rate,2019,66.5,Total,,%,Normal value,,,15 years old and over
+Bahamas,BS,BHS,44,Labour force participation rate,2019,70.1,Female,,%,Normal value,,,15 years old and over
+Bahamas,BS,BHS,44,Labour force participation rate,2019,81.6,Male,,%,Normal value,,,15 years old and over
+Bahamas,BS,BHS,44,Labour force participation rate,2019,75.6,Total,,%,Normal value,,,15 years old and over
+Bahrain,BH,BHR,48,Labour force participation rate,2019,45.3,Female,,%,Normal value,,,15 years old and over
+Bahrain,BH,BHR,48,Labour force participation rate,2019,87.3,Male,,%,Normal value,,,15 years old and over
+Bahrain,BH,BHR,48,Labour force participation rate,2019,73.6,Total,,%,Normal value,,,15 years old and over
+Bangladesh,BD,BGD,50,Labour force participation rate,2019,36.4,Female,,%,Normal value,,,15 years old and over
+Bangladesh,BD,BGD,50,Labour force participation rate,2019,81.5,Male,,%,Normal value,,,15 years old and over
+Bangladesh,BD,BGD,50,Labour force participation rate,2019,59.1,Total,,%,Normal value,,,15 years old and over
+Barbados,BB,BRB,52,Labour force participation rate,2019,61.8,Female,,%,Normal value,,,15 years old and over
+Barbados,BB,BRB,52,Labour force participation rate,2019,69.2,Male,,%,Normal value,,,15 years old and over
+Barbados,BB,BRB,52,Labour force participation rate,2019,65.3,Total,,%,Normal value,,,15 years old and over
+Belarus,BY,BLR,112,Labour force participation rate,2019,57.6,Female,,%,Normal value,,,15 years old and over
+Belarus,BY,BLR,112,Labour force participation rate,2019,71.7,Male,,%,Normal value,,,15 years old and over
+Belarus,BY,BLR,112,Labour force participation rate,2019,64.1,Total,,%,Normal value,,,15 years old and over
+Belgium,BE,BEL,56,Labour force participation rate,2019,48.9,Female,,%,Normal value,,,15 years old and over
+Belgium,BE,BEL,56,Labour force participation rate,2019,59.1,Male,,%,Normal value,,,15 years old and over
+Belgium,BE,BEL,56,Labour force participation rate,2019,53.9,Total,,%,Normal value,,,15 years old and over
+Belize,BZ,BLZ,84,Labour force participation rate,2019,50,Female,,%,Normal value,,,15 years old and over
+Belize,BZ,BLZ,84,Labour force participation rate,2019,80.9,Male,,%,Normal value,,,15 years old and over
+Belize,BZ,BLZ,84,Labour force participation rate,2019,65.2,Total,,%,Normal value,,,15 years old and over
+Benin,BJ,BEN,204,Labour force participation rate,2019,68.8,Female,,%,Normal value,,,15 years old and over
+Benin,BJ,BEN,204,Labour force participation rate,2019,72.8,Male,,%,Normal value,,,15 years old and over
+Benin,BJ,BEN,204,Labour force participation rate,2019,70.8,Total,,%,Normal value,,,15 years old and over
+Bhutan,BT,BTN,64,Labour force participation rate,2019,59.5,Female,,%,Normal value,,,15 years old and over
+Bhutan,BT,BTN,64,Labour force participation rate,2019,73.9,Male,,%,Normal value,,,15 years old and over
+Bhutan,BT,BTN,64,Labour force participation rate,2019,67.3,Total,,%,Normal value,,,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force participation rate,2019,63.7,Female,,%,Normal value,,,15 years old and over
+Bolivia,BO,BOL,68,Labour force participation rate,2019,63.7,Female,,%,Normal value,,,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force participation rate,2019,80.6,Male,,%,Normal value,,,15 years old and over
+Bolivia,BO,BOL,68,Labour force participation rate,2019,80.6,Male,,%,Normal value,,,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force participation rate,2019,72.1,Total,,%,Normal value,,,15 years old and over
+Bolivia,BO,BOL,68,Labour force participation rate,2019,72.1,Total,,%,Normal value,,,15 years old and over
+Bosnia and Herzegovina,BA,BIH,70,Labour force participation rate,2019,37.4,Female,,%,Normal value,,,15 years old and over
+Bosnia and Herzegovina,BA,BIH,70,Labour force participation rate,2019,58.1,Male,,%,Normal value,,,15 years old and over
+Bosnia and Herzegovina,BA,BIH,70,Labour force participation rate,2019,47.5,Total,,%,Normal value,,,15 years old and over
+Botswana,BW,BWA,72,Labour force participation rate,2019,65.3,Female,,%,Normal value,,,15 years old and over
+Botswana,BW,BWA,72,Labour force participation rate,2019,76.4,Male,,%,Normal value,,,15 years old and over
+Botswana,BW,BWA,72,Labour force participation rate,2019,70.5,Total,,%,Normal value,,,15 years old and over
+Brazil,BR,BRA,76,Labour force participation rate,2019,55.1,Female,,%,Normal value,,,15 years old and over
+Brazil,BR,BRA,76,Labour force participation rate,2019,74.4,Male,,%,Normal value,,,15 years old and over
+Brazil,BR,BRA,76,Labour force participation rate,2019,64.5,Total,,%,Normal value,,,15 years old and over
+Brunei Darussalam,BN,BRN,96,Labour force participation rate,2019,56.1,Female,,%,Normal value,,,15 years old and over
+Brunei,BN,BRN,96,Labour force participation rate,2019,56.1,Female,,%,Normal value,,,15 years old and over
+Brunei Darussalam,BN,BRN,96,Labour force participation rate,2019,72.7,Male,,%,Normal value,,,15 years old and over
+Brunei,BN,BRN,96,Labour force participation rate,2019,72.7,Male,,%,Normal value,,,15 years old and over
+Brunei Darussalam,BN,BRN,96,Labour force participation rate,2019,64.7,Total,,%,Normal value,,,15 years old and over
+Brunei,BN,BRN,96,Labour force participation rate,2019,64.7,Total,,%,Normal value,,,15 years old and over
+Bulgaria,BG,BGR,100,Labour force participation rate,2019,50.4,Female,,%,Normal value,,,15 years old and over
+Bulgaria,BG,BGR,100,Labour force participation rate,2019,63.6,Male,,%,Normal value,,,15 years old and over
+Bulgaria,BG,BGR,100,Labour force participation rate,2019,56.8,Total,,%,Normal value,,,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force participation rate,2019,58.5,Female,,%,Normal value,,,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force participation rate,2019,74.7,Male,,%,Normal value,,,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force participation rate,2019,66.5,Total,,%,Normal value,,,15 years old and over
+Burundi,BI,BDI,108,Labour force participation rate,2019,80.5,Female,,%,Normal value,,,15 years old and over
+Burundi,BI,BDI,108,Labour force participation rate,2019,77.9,Male,,%,Normal value,,,15 years old and over
+Burundi,BI,BDI,108,Labour force participation rate,2019,79.2,Total,,%,Normal value,,,15 years old and over
+Cape Verde,CV,CPV,132,Labour force participation rate,2019,53.4,Female,,%,Normal value,,,15 years old and over
+Cape Verde,CV,CPV,132,Labour force participation rate,2019,67.3,Male,,%,Normal value,,,15 years old and over
+Cape Verde,CV,CPV,132,Labour force participation rate,2019,60.4,Total,,%,Normal value,,,15 years old and over
+Cambodia,KH,KHM,116,Labour force participation rate,2019,76.9,Female,,%,Normal value,,,15 years old and over
+Cambodia,KH,KHM,116,Labour force participation rate,2019,87.6,Male,,%,Normal value,,,15 years old and over
+Cambodia,KH,KHM,116,Labour force participation rate,2019,82,Total,,%,Normal value,,,15 years old and over
+Cameroon,CM,CMR,120,Labour force participation rate,2019,71.3,Female,,%,Normal value,,,15 years old and over
+Cameroon,CM,CMR,120,Labour force participation rate,2019,81,Male,,%,Normal value,,,15 years old and over
+Cameroon,CM,CMR,120,Labour force participation rate,2019,76.1,Total,,%,Normal value,,,15 years old and over
+Canada,CA,CAN,124,Labour force participation rate,2019,61.1,Female,,%,Normal value,,,15 years old and over
+Canada,CA,CAN,124,Labour force participation rate,2019,70.1,Male,,%,Normal value,,,15 years old and over
+Canada,CA,CAN,124,Labour force participation rate,2019,65.6,Total,,%,Normal value,,,15 years old and over
+Central African Republic,CF,CAF,140,Labour force participation rate,2019,64.5,Female,,%,Normal value,,,15 years old and over
+Central African Republic,CF,CAF,140,Labour force participation rate,2019,79.5,Male,,%,Normal value,,,15 years old and over
+Central African Republic,CF,CAF,140,Labour force participation rate,2019,71.8,Total,,%,Normal value,,,15 years old and over
+Chad,TD,TCD,148,Labour force participation rate,2019,64,Female,,%,Normal value,,,15 years old and over
+Chad,TD,TCD,148,Labour force participation rate,2019,77.3,Male,,%,Normal value,,,15 years old and over
+Chad,TD,TCD,148,Labour force participation rate,2019,70.6,Total,,%,Normal value,,,15 years old and over
+Chile,CL,CHL,152,Labour force participation rate,2019,51.8,Female,,%,Normal value,,,15 years old and over
+Chile,CL,CHL,152,Labour force participation rate,2019,73.4,Male,,%,Normal value,,,15 years old and over
+Chile,CL,CHL,152,Labour force participation rate,2019,62.4,Total,,%,Normal value,,,15 years old and over
+China,CN,CHN,156,Labour force participation rate,2019,60.6,Female,,%,Normal value,,,15 years old and over
+China,CN,CHN,156,Labour force participation rate,2019,75.7,Male,,%,Normal value,,,15 years old and over
+China,CN,CHN,156,Labour force participation rate,2019,68.2,Total,,%,Normal value,,,15 years old and over
+Colombia,CO,COL,170,Labour force participation rate,2019,56.2,Female,,%,Normal value,,,15 years old and over
+Colombia,CO,COL,170,Labour force participation rate,2019,80.1,Male,,%,Normal value,,,15 years old and over
+Colombia,CO,COL,170,Labour force participation rate,2019,67.8,Total,,%,Normal value,,,15 years old and over
+Comoros,KM,COM,174,Labour force participation rate,2019,34.4,Female,,%,Normal value,,,15 years old and over
+Comoros,KM,COM,174,Labour force participation rate,2019,56.6,Male,,%,Normal value,,,15 years old and over
+Comoros,KM,COM,174,Labour force participation rate,2019,45.5,Total,,%,Normal value,,,15 years old and over
+Congo,CG,COG,178,Labour force participation rate,2019,67.6,Female,,%,Normal value,,,15 years old and over
+Congo,CG,COG,178,Labour force participation rate,2019,71.2,Male,,%,Normal value,,,15 years old and over
+Congo,CG,COG,178,Labour force participation rate,2019,69.4,Total,,%,Normal value,,,15 years old and over
+Costa Rica,CR,CRI,188,Labour force participation rate,2019,51.9,Female,,%,Normal value,,,15 years old and over
+Costa Rica,CR,CRI,188,Labour force participation rate,2019,77.2,Male,,%,Normal value,,,15 years old and over
+Costa Rica,CR,CRI,188,Labour force participation rate,2019,64.5,Total,,%,Normal value,,,15 years old and over
+Croatia,HR,HRV,191,Labour force participation rate,2019,45.4,Female,,%,Normal value,,,15 years old and over
+Croatia,HR,HRV,191,Labour force participation rate,2019,58.2,Male,,%,Normal value,,,15 years old and over
+Croatia,HR,HRV,191,Labour force participation rate,2019,51.5,Total,,%,Normal value,,,15 years old and over
+Cuba,CU,CUB,192,Labour force participation rate,2019,41,Female,,%,Normal value,,,15 years old and over
+Cuba,CU,CUB,192,Labour force participation rate,2019,66.3,Male,,%,Normal value,,,15 years old and over
+Cuba,CU,CUB,192,Labour force participation rate,2019,53.5,Total,,%,Normal value,,,15 years old and over
+Cyprus,CY,CYP,196,Labour force participation rate,2019,58.1,Female,,%,Normal value,,,15 years old and over
+Cyprus,CY,CYP,196,Labour force participation rate,2019,69.5,Male,,%,Normal value,,,15 years old and over
+Cyprus,CY,CYP,196,Labour force participation rate,2019,63.8,Total,,%,Normal value,,,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force participation rate,2019,52.8,Female,,%,Normal value,,,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force participation rate,2019,68.6,Male,,%,Normal value,,,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force participation rate,2019,60.5,Total,,%,Normal value,,,15 years old and over
+Côte d'Ivoire,CI,CIV,384,Labour force participation rate,2019,44.6,Female,,%,Normal value,,,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force participation rate,2019,44.6,Female,,%,Normal value,,,15 years old and over
+Côte d'Ivoire,CI,CIV,384,Labour force participation rate,2019,62.6,Male,,%,Normal value,,,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force participation rate,2019,62.6,Male,,%,Normal value,,,15 years old and over
+Côte d'Ivoire,CI,CIV,384,Labour force participation rate,2019,53.7,Total,,%,Normal value,,,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force participation rate,2019,53.7,Total,,%,Normal value,,,15 years old and over
+"Korea, Democratic People's Republic of",KP,PRK,408,Labour force participation rate,2019,73.5,Female,,%,Normal value,,,15 years old and over
+"Korea, Democratic People's Republic of",KP,PRK,408,Labour force participation rate,2019,88.3,Male,,%,Normal value,,,15 years old and over
+"Korea, Democratic People's Republic of",KP,PRK,408,Labour force participation rate,2019,80.7,Total,,%,Normal value,,,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force participation rate,2019,61,Female,,%,Normal value,,,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force participation rate,2019,66.2,Male,,%,Normal value,,,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force participation rate,2019,63.6,Total,,%,Normal value,,,15 years old and over
+Denmark,DK,DNK,208,Labour force participation rate,2019,57.9,Female,,%,Normal value,,,15 years old and over
+Denmark,DK,DNK,208,Labour force participation rate,2019,66.7,Male,,%,Normal value,,,15 years old and over
+Denmark,DK,DNK,208,Labour force participation rate,2019,62.2,Total,,%,Normal value,,,15 years old and over
+Djibouti,DJ,DJI,262,Labour force participation rate,2019,50.7,Female,,%,Normal value,,,15 years old and over
+Djibouti,DJ,DJI,262,Labour force participation rate,2019,68.6,Male,,%,Normal value,,,15 years old and over
+Djibouti,DJ,DJI,262,Labour force participation rate,2019,60.1,Total,,%,Normal value,,,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force participation rate,2019,54.3,Female,,%,Normal value,,,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force participation rate,2019,79.9,Male,,%,Normal value,,,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force participation rate,2019,67,Total,,%,Normal value,,,15 years old and over
+Ecuador,EC,ECU,218,Labour force participation rate,2019,55.2,Female,,%,Normal value,,,15 years old and over
+Ecuador,EC,ECU,218,Labour force participation rate,2019,80.7,Male,,%,Normal value,,,15 years old and over
+Ecuador,EC,ECU,218,Labour force participation rate,2019,67.8,Total,,%,Normal value,,,15 years old and over
+Egypt,EG,EGY,818,Labour force participation rate,2019,18.5,Female,,%,Normal value,,,15 years old and over
+Egypt,EG,EGY,818,Labour force participation rate,2019,71.2,Male,,%,Normal value,,,15 years old and over
+Egypt,EG,EGY,818,Labour force participation rate,2019,44.8,Total,,%,Normal value,,,15 years old and over
+El Salvador,SV,SLV,222,Labour force participation rate,2019,45.4,Female,,%,Normal value,,,15 years old and over
+El Salvador,SV,SLV,222,Labour force participation rate,2019,75.7,Male,,%,Normal value,,,15 years old and over
+El Salvador,SV,SLV,222,Labour force participation rate,2019,59.1,Total,,%,Normal value,,,15 years old and over
+Equatorial Guinea,GQ,GNQ,226,Labour force participation rate,2019,54.8,Female,,%,Normal value,,,15 years old and over
+Equatorial Guinea,GQ,GNQ,226,Labour force participation rate,2019,67,Male,,%,Normal value,,,15 years old and over
+Equatorial Guinea,GQ,GNQ,226,Labour force participation rate,2019,62,Total,,%,Normal value,,,15 years old and over
+Eritrea,ER,ERI,232,Labour force participation rate,2019,71.8,Female,,%,Normal value,,,15 years old and over
+Eritrea,ER,ERI,232,Labour force participation rate,2019,86.3,Male,,%,Normal value,,,15 years old and over
+Eritrea,ER,ERI,232,Labour force participation rate,2019,78.9,Total,,%,Normal value,,,15 years old and over
+Estonia,EE,EST,233,Labour force participation rate,2019,57.5,Female,,%,Normal value,,,15 years old and over
+Estonia,EE,EST,233,Labour force participation rate,2019,70.5,Male,,%,Normal value,,,15 years old and over
+Estonia,EE,EST,233,Labour force participation rate,2019,63.5,Total,,%,Normal value,,,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force participation rate,2019,48.6,Female,,%,Normal value,,,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force participation rate,2019,56.6,Male,,%,Normal value,,,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force participation rate,2019,52.4,Total,,%,Normal value,,,15 years old and over
+Ethiopia,ET,ETH,231,Labour force participation rate,2019,73.3,Female,,%,Normal value,,,15 years old and over
+Ethiopia,ET,ETH,231,Labour force participation rate,2019,85.4,Male,,%,Normal value,,,15 years old and over
+Ethiopia,ET,ETH,231,Labour force participation rate,2019,79.3,Total,,%,Normal value,,,15 years old and over
+Fiji,FJ,FJI,242,Labour force participation rate,2019,38.2,Female,,%,Normal value,,,15 years old and over
+Fiji,FJ,FJI,242,Labour force participation rate,2019,76.5,Male,,%,Normal value,,,15 years old and over
+Fiji,FJ,FJI,242,Labour force participation rate,2019,57.6,Total,,%,Normal value,,,15 years old and over
+Finland,FI,FIN,246,Labour force participation rate,2019,55.7,Female,,%,Normal value,,,15 years old and over
+Finland,FI,FIN,246,Labour force participation rate,2019,63,Male,,%,Normal value,,,15 years old and over
+Finland,FI,FIN,246,Labour force participation rate,2019,59.3,Total,,%,Normal value,,,15 years old and over
+France,FR,FRA,250,Labour force participation rate,2019,50.7,Female,,%,Normal value,,,15 years old and over
+France,FR,FRA,250,Labour force participation rate,2019,59.7,Male,,%,Normal value,,,15 years old and over
+France,FR,FRA,250,Labour force participation rate,2019,55,Total,,%,Normal value,,,15 years old and over
+Gabon,GA,GAB,266,Labour force participation rate,2019,43.3,Female,,%,Normal value,,,15 years old and over
+Gabon,GA,GAB,266,Labour force participation rate,2019,62.1,Male,,%,Normal value,,,15 years old and over
+Gabon,GA,GAB,266,Labour force participation rate,2019,52.9,Total,,%,Normal value,,,15 years old and over
+Gambia,GM,GMB,270,Labour force participation rate,2019,51.1,Female,,%,Normal value,,,15 years old and over
+Gambia,GM,GMB,270,Labour force participation rate,2019,67.8,Male,,%,Normal value,,,15 years old and over
+Gambia,GM,GMB,270,Labour force participation rate,2019,59.3,Total,,%,Normal value,,,15 years old and over
+Georgia,GE,GEO,268,Labour force participation rate,2019,55.2,Female,,%,Normal value,,,15 years old and over
+Georgia,GE,GEO,268,Labour force participation rate,2019,73.2,Male,,%,Normal value,,,15 years old and over
+Georgia,GE,GEO,268,Labour force participation rate,2019,63.6,Total,,%,Normal value,,,15 years old and over
+Germany,DE,DEU,276,Labour force participation rate,2019,55.6,Female,,%,Normal value,,,15 years old and over
+Germany,DE,DEU,276,Labour force participation rate,2019,67.1,Male,,%,Normal value,,,15 years old and over
+Germany,DE,DEU,276,Labour force participation rate,2019,61.2,Total,,%,Normal value,,,15 years old and over
+Ghana,GH,GHA,288,Labour force participation rate,2019,63.9,Female,,%,Normal value,,,15 years old and over
+Ghana,GH,GHA,288,Labour force participation rate,2019,71.7,Male,,%,Normal value,,,15 years old and over
+Ghana,GH,GHA,288,Labour force participation rate,2019,67.8,Total,,%,Normal value,,,15 years old and over
+Greece,GR,GRC,300,Labour force participation rate,2019,44.5,Female,,%,Normal value,,,15 years old and over
+Greece,GR,GRC,300,Labour force participation rate,2019,60.4,Male,,%,Normal value,,,15 years old and over
+Greece,GR,GRC,300,Labour force participation rate,2019,52.2,Total,,%,Normal value,,,15 years old and over
+Guatemala,GT,GTM,320,Labour force participation rate,2019,40.5,Female,,%,Normal value,,,15 years old and over
+Guatemala,GT,GTM,320,Labour force participation rate,2019,86.3,Male,,%,Normal value,,,15 years old and over
+Guatemala,GT,GTM,320,Labour force participation rate,2019,62.6,Total,,%,Normal value,,,15 years old and over
+Guinea,GN,GIN,324,Labour force participation rate,2019,62.7,Female,,%,Normal value,,,15 years old and over
+Guinea,GN,GIN,324,Labour force participation rate,2019,59.9,Male,,%,Normal value,,,15 years old and over
+Guinea,GN,GIN,324,Labour force participation rate,2019,61.4,Total,,%,Normal value,,,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force participation rate,2019,65.9,Female,,%,Normal value,,,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force participation rate,2019,78.8,Male,,%,Normal value,,,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force participation rate,2019,72.1,Total,,%,Normal value,,,15 years old and over
+Guyana,GY,GUY,328,Labour force participation rate,2019,42.8,Female,,%,Normal value,,,15 years old and over
+Guyana,GY,GUY,328,Labour force participation rate,2019,66.8,Male,,%,Normal value,,,15 years old and over
+Guyana,GY,GUY,328,Labour force participation rate,2019,54.8,Total,,%,Normal value,,,15 years old and over
+Haiti,HT,HTI,332,Labour force participation rate,2019,63.7,Female,,%,Normal value,,,15 years old and over
+Haiti,HT,HTI,332,Labour force participation rate,2019,72.8,Male,,%,Normal value,,,15 years old and over
+Haiti,HT,HTI,332,Labour force participation rate,2019,68.1,Total,,%,Normal value,,,15 years old and over
+Honduras,HN,HND,340,Labour force participation rate,2019,52.3,Female,,%,Normal value,,,15 years old and over
+Honduras,HN,HND,340,Labour force participation rate,2019,86.1,Male,,%,Normal value,,,15 years old and over
+Honduras,HN,HND,340,Labour force participation rate,2019,69,Total,,%,Normal value,,,15 years old and over
+Hungary,HU,HUN,348,Labour force participation rate,2019,48.4,Female,,%,Normal value,,,15 years old and over
+Hungary,HU,HUN,348,Labour force participation rate,2019,66.3,Male,,%,Normal value,,,15 years old and over
+Hungary,HU,HUN,348,Labour force participation rate,2019,56.8,Total,,%,Normal value,,,15 years old and over
+Iceland,IS,ISL,352,Labour force participation rate,2019,70.2,Female,,%,Normal value,,,15 years old and over
+Iceland,IS,ISL,352,Labour force participation rate,2019,78.5,Male,,%,Normal value,,,15 years old and over
+Iceland,IS,ISL,352,Labour force participation rate,2019,74.3,Total,,%,Normal value,,,15 years old and over
+India,IN,IND,356,Labour force participation rate,2019,20.8,Female,,%,Normal value,,,15 years old and over
+India,IN,IND,356,Labour force participation rate,2019,75.9,Male,,%,Normal value,,,15 years old and over
+India,IN,IND,356,Labour force participation rate,2019,49.3,Total,,%,Normal value,,,15 years old and over
+Indonesia,ID,IDN,360,Labour force participation rate,2019,53.8,Female,,%,Normal value,,,15 years old and over
+Indonesia,ID,IDN,360,Labour force participation rate,2019,82.2,Male,,%,Normal value,,,15 years old and over
+Indonesia,ID,IDN,360,Labour force participation rate,2019,68,Total,,%,Normal value,,,15 years old and over
+"Iran, Islamic Republic of",IR,IRN,364,Labour force participation rate,2019,17.6,Female,,%,Normal value,,,15 years old and over
+"Iran, Islamic Republic of",IR,IRN,364,Labour force participation rate,2019,72.4,Male,,%,Normal value,,,15 years old and over
+"Iran, Islamic Republic of",IR,IRN,364,Labour force participation rate,2019,45.2,Total,,%,Normal value,,,15 years old and over
+Iraq,IQ,IRQ,368,Labour force participation rate,2019,11.5,Female,,%,Normal value,,,15 years old and over
+Iraq,IQ,IRQ,368,Labour force participation rate,2019,74.3,Male,,%,Normal value,,,15 years old and over
+Iraq,IQ,IRQ,368,Labour force participation rate,2019,43,Total,,%,Normal value,,,15 years old and over
+Ireland,IE,IRL,372,Labour force participation rate,2019,56.3,Female,,%,Normal value,,,15 years old and over
+Ireland,IE,IRL,372,Labour force participation rate,2019,68.8,Male,,%,Normal value,,,15 years old and over
+Ireland,IE,IRL,372,Labour force participation rate,2019,62.4,Total,,%,Normal value,,,15 years old and over
+Israel,IL,ISR,376,Labour force participation rate,2019,59.6,Female,,%,Normal value,,,15 years old and over
+Israel,IL,ISR,376,Labour force participation rate,2019,68,Male,,%,Normal value,,,15 years old and over
+Israel,IL,ISR,376,Labour force participation rate,2019,63.7,Total,,%,Normal value,,,15 years old and over
+Italy,IT,ITA,380,Labour force participation rate,2019,41,Female,,%,Normal value,,,15 years old and over
+Italy,IT,ITA,380,Labour force participation rate,2019,59.1,Male,,%,Normal value,,,15 years old and over
+Italy,IT,ITA,380,Labour force participation rate,2019,49.7,Total,,%,Normal value,,,15 years old and over
+Jamaica,JM,JAM,388,Labour force participation rate,2019,60.3,Female,,%,Normal value,,,15 years old and over
+Jamaica,JM,JAM,388,Labour force participation rate,2019,73.2,Male,,%,Normal value,,,15 years old and over
+Jamaica,JM,JAM,388,Labour force participation rate,2019,66.7,Total,,%,Normal value,,,15 years old and over
+Japan,JP,JPN,392,Labour force participation rate,2019,53.6,Female,,%,Normal value,,,15 years old and over
+Japan,JP,JPN,392,Labour force participation rate,2019,71.7,Male,,%,Normal value,,,15 years old and over
+Japan,JP,JPN,392,Labour force participation rate,2019,62.4,Total,,%,Normal value,,,15 years old and over
+Jordan,JO,JOR,400,Labour force participation rate,2019,14.6,Female,,%,Normal value,,,15 years old and over
+Jordan,JO,JOR,400,Labour force participation rate,2019,63.9,Male,,%,Normal value,,,15 years old and over
+Jordan,JO,JOR,400,Labour force participation rate,2019,39.5,Total,,%,Normal value,,,15 years old and over
+Kazakhstan,KZ,KAZ,398,Labour force participation rate,2019,62.7,Female,,%,Normal value,,,15 years old and over
+Kazakhstan,KZ,KAZ,398,Labour force participation rate,2019,75.6,Male,,%,Normal value,,,15 years old and over
+Kazakhstan,KZ,KAZ,398,Labour force participation rate,2019,68.8,Total,,%,Normal value,,,15 years old and over
+Kenya,KE,KEN,404,Labour force participation rate,2019,72,Female,,%,Normal value,,,15 years old and over
+Kenya,KE,KEN,404,Labour force participation rate,2019,76.5,Male,,%,Normal value,,,15 years old and over
+Kenya,KE,KEN,404,Labour force participation rate,2019,74.2,Total,,%,Normal value,,,15 years old and over
+Kuwait,KW,KWT,414,Labour force participation rate,2019,49.8,Female,,%,Normal value,,,15 years old and over
+Kuwait,KW,KWT,414,Labour force participation rate,2019,87.6,Male,,%,Normal value,,,15 years old and over
+Kuwait,KW,KWT,414,Labour force participation rate,2019,73.6,Total,,%,Normal value,,,15 years old and over
+Kyrgyzstan,KG,KGZ,417,Labour force participation rate,2019,44.1,Female,,%,Normal value,,,15 years old and over
+Kyrgyzstan,KG,KGZ,417,Labour force participation rate,2019,74.5,Male,,%,Normal value,,,15 years old and over
+Kyrgyzstan,KG,KGZ,417,Labour force participation rate,2019,58.9,Total,,%,Normal value,,,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force participation rate,2019,76.5,Female,,%,Normal value,,,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force participation rate,2019,79.8,Male,,%,Normal value,,,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force participation rate,2019,78.1,Total,,%,Normal value,,,15 years old and over
+Latvia,LV,LVA,428,Labour force participation rate,2019,55.8,Female,,%,Normal value,,,15 years old and over
+Latvia,LV,LVA,428,Labour force participation rate,2019,68.3,Male,,%,Normal value,,,15 years old and over
+Latvia,LV,LVA,428,Labour force participation rate,2019,61.4,Total,,%,Normal value,,,15 years old and over
+Lebanon,LB,LBN,422,Labour force participation rate,2019,23.1,Female,,%,Normal value,,,15 years old and over
+Lebanon,LB,LBN,422,Labour force participation rate,2019,72.1,Male,,%,Normal value,,,15 years old and over
+Lebanon,LB,LBN,422,Labour force participation rate,2019,47.5,Total,,%,Normal value,,,15 years old and over
+Lesotho,LS,LSO,426,Labour force participation rate,2019,60.4,Female,,%,Normal value,,,15 years old and over
+Lesotho,LS,LSO,426,Labour force participation rate,2019,75.8,Male,,%,Normal value,,,15 years old and over
+Lesotho,LS,LSO,426,Labour force participation rate,2019,67.9,Total,,%,Normal value,,,15 years old and over
+Liberia,LR,LBR,430,Labour force participation rate,2019,72,Female,,%,Normal value,,,15 years old and over
+Liberia,LR,LBR,430,Labour force participation rate,2019,80.3,Male,,%,Normal value,,,15 years old and over
+Liberia,LR,LBR,430,Labour force participation rate,2019,76.1,Total,,%,Normal value,,,15 years old and over
+Libyan Arab Jamahiriya,LY,LBY,434,Labour force participation rate,2019,34,Female,,%,Normal value,,,15 years old and over
+Libya,LY,LBY,434,Labour force participation rate,2019,34,Female,,%,Normal value,,,15 years old and over
+Libyan Arab Jamahiriya,LY,LBY,434,Labour force participation rate,2019,65.3,Male,,%,Normal value,,,15 years old and over
+Libya,LY,LBY,434,Labour force participation rate,2019,65.3,Male,,%,Normal value,,,15 years old and over
+Libyan Arab Jamahiriya,LY,LBY,434,Labour force participation rate,2019,49.7,Total,,%,Normal value,,,15 years old and over
+Libya,LY,LBY,434,Labour force participation rate,2019,49.7,Total,,%,Normal value,,,15 years old and over
+Lithuania,LT,LTU,440,Labour force participation rate,2019,57.3,Female,,%,Normal value,,,15 years old and over
+Lithuania,LT,LTU,440,Labour force participation rate,2019,67.7,Male,,%,Normal value,,,15 years old and over
+Lithuania,LT,LTU,440,Labour force participation rate,2019,62,Total,,%,Normal value,,,15 years old and over
+Luxembourg,LU,LUX,442,Labour force participation rate,2019,54.6,Female,,%,Normal value,,,15 years old and over
+Luxembourg,LU,LUX,442,Labour force participation rate,2019,65.1,Male,,%,Normal value,,,15 years old and over
+Luxembourg,LU,LUX,442,Labour force participation rate,2019,59.9,Total,,%,Normal value,,,15 years old and over
+Madagascar,MG,MDG,450,Labour force participation rate,2019,83.2,Female,,%,Normal value,,,15 years old and over
+Madagascar,MG,MDG,450,Labour force participation rate,2019,88.7,Male,,%,Normal value,,,15 years old and over
+Madagascar,MG,MDG,450,Labour force participation rate,2019,85.9,Total,,%,Normal value,,,15 years old and over
+Malawi,MW,MWI,454,Labour force participation rate,2019,72.5,Female,,%,Normal value,,,15 years old and over
+Malawi,MW,MWI,454,Labour force participation rate,2019,80.4,Male,,%,Normal value,,,15 years old and over
+Malawi,MW,MWI,454,Labour force participation rate,2019,76.4,Total,,%,Normal value,,,15 years old and over
+Malaysia,MY,MYS,458,Labour force participation rate,2019,51.3,Female,,%,Normal value,,,15 years old and over
+Malaysia,MY,MYS,458,Labour force participation rate,2019,77.4,Male,,%,Normal value,,,15 years old and over
+Malaysia,MY,MYS,458,Labour force participation rate,2019,64.7,Total,,%,Normal value,,,15 years old and over
+Maldives,MV,MDV,462,Labour force participation rate,2019,41.6,Female,,%,Normal value,,,15 years old and over
+Maldives,MV,MDV,462,Labour force participation rate,2019,84.6,Male,,%,Normal value,,,15 years old and over
+Maldives,MV,MDV,462,Labour force participation rate,2019,70,Total,,%,Normal value,,,15 years old and over
+Mali,ML,MLI,466,Labour force participation rate,2019,57.8,Female,,%,Normal value,,,15 years old and over
+Mali,ML,MLI,466,Labour force participation rate,2019,81.1,Male,,%,Normal value,,,15 years old and over
+Mali,ML,MLI,466,Labour force participation rate,2019,69.3,Total,,%,Normal value,,,15 years old and over
+Malta,MT,MLT,470,Labour force participation rate,2019,48.4,Female,,%,Normal value,,,15 years old and over
+Malta,MT,MLT,470,Labour force participation rate,2019,67.4,Male,,%,Normal value,,,15 years old and over
+Malta,MT,MLT,470,Labour force participation rate,2019,57.9,Total,,%,Normal value,,,15 years old and over
+Mauritania,MR,MRT,478,Labour force participation rate,2019,28.1,Female,,%,Normal value,,,15 years old and over
+Mauritania,MR,MRT,478,Labour force participation rate,2019,62.8,Male,,%,Normal value,,,15 years old and over
+Mauritania,MR,MRT,478,Labour force participation rate,2019,45.4,Total,,%,Normal value,,,15 years old and over
+Mauritius,MU,MUS,480,Labour force participation rate,2019,45,Female,,%,Normal value,,,15 years old and over
+Mauritius,MU,MUS,480,Labour force participation rate,2019,71.2,Male,,%,Normal value,,,15 years old and over
+Mauritius,MU,MUS,480,Labour force participation rate,2019,57.9,Total,,%,Normal value,,,15 years old and over
+Mexico,MX,MEX,484,Labour force participation rate,2019,45.6,Female,,%,Normal value,,,15 years old and over
+Mexico,MX,MEX,484,Labour force participation rate,2019,78.5,Male,,%,Normal value,,,15 years old and over
+Mexico,MX,MEX,484,Labour force participation rate,2019,61.4,Total,,%,Normal value,,,15 years old and over
+Mongolia,MN,MNG,496,Labour force participation rate,2019,55.3,Female,,%,Normal value,,,15 years old and over
+Mongolia,MN,MNG,496,Labour force participation rate,2019,71,Male,,%,Normal value,,,15 years old and over
+Mongolia,MN,MNG,496,Labour force participation rate,2019,63,Total,,%,Normal value,,,15 years old and over
+Montenegro,ME,MNE,499,Labour force participation rate,2019,47.8,Female,,%,Normal value,,,15 years old and over
+Montenegro,ME,MNE,499,Labour force participation rate,2019,63.6,Male,,%,Normal value,,,15 years old and over
+Montenegro,ME,MNE,499,Labour force participation rate,2019,55.5,Total,,%,Normal value,,,15 years old and over
+Morocco,MA,MAR,504,Labour force participation rate,2019,21.6,Female,,%,Normal value,,,15 years old and over
+Morocco,MA,MAR,504,Labour force participation rate,2019,70.1,Male,,%,Normal value,,,15 years old and over
+Morocco,MA,MAR,504,Labour force participation rate,2019,45.4,Total,,%,Normal value,,,15 years old and over
+Mozambique,MZ,MOZ,508,Labour force participation rate,2019,77.4,Female,,%,Normal value,,,15 years old and over
+Mozambique,MZ,MOZ,508,Labour force participation rate,2019,78.8,Male,,%,Normal value,,,15 years old and over
+Mozambique,MZ,MOZ,508,Labour force participation rate,2019,78.1,Total,,%,Normal value,,,15 years old and over
+Myanmar,MM,MMR,104,Labour force participation rate,2019,46.2,Female,,%,Normal value,,,15 years old and over
+Burma,MM,MMR,104,Labour force participation rate,2019,46.2,Female,,%,Normal value,,,15 years old and over
+Myanmar,MM,MMR,104,Labour force participation rate,2019,76.1,Male,,%,Normal value,,,15 years old and over
+Burma,MM,MMR,104,Labour force participation rate,2019,76.1,Male,,%,Normal value,,,15 years old and over
+Myanmar,MM,MMR,104,Labour force participation rate,2019,60.4,Total,,%,Normal value,,,15 years old and over
+Burma,MM,MMR,104,Labour force participation rate,2019,60.4,Total,,%,Normal value,,,15 years old and over
+Namibia,,NAM,516,Labour force participation rate,2019,55.8,Female,,%,Normal value,,,15 years old and over
+Namibia,,NAM,516,Labour force participation rate,2019,63.4,Male,,%,Normal value,,,15 years old and over
+Namibia,,NAM,516,Labour force participation rate,2019,59.4,Total,,%,Normal value,,,15 years old and over
+Nepal,NP,NPL,524,Labour force participation rate,2019,81.5,Female,,%,Normal value,,,15 years old and over
+Nepal,NP,NPL,524,Labour force participation rate,2019,83.7,Male,,%,Normal value,,,15 years old and over
+Nepal,NP,NPL,524,Labour force participation rate,2019,82.5,Total,,%,Normal value,,,15 years old and over
+Netherlands,NL,NLD,528,Labour force participation rate,2019,59,Female,,%,Normal value,,,15 years old and over
+Netherlands,NL,NLD,528,Labour force participation rate,2019,69.6,Male,,%,Normal value,,,15 years old and over
+Netherlands,NL,NLD,528,Labour force participation rate,2019,64.3,Total,,%,Normal value,,,15 years old and over
+New Zealand,NZ,NZL,554,Labour force participation rate,2019,64.9,Female,,%,Normal value,,,15 years old and over
+New Zealand,NZ,NZL,554,Labour force participation rate,2019,74.6,Male,,%,Normal value,,,15 years old and over
+New Zealand,NZ,NZL,554,Labour force participation rate,2019,69.6,Total,,%,Normal value,,,15 years old and over
+Nicaragua,NI,NIC,558,Labour force participation rate,2019,49.7,Female,,%,Normal value,,,15 years old and over
+Nicaragua,NI,NIC,558,Labour force participation rate,2019,84.7,Male,,%,Normal value,,,15 years old and over
+Nicaragua,NI,NIC,558,Labour force participation rate,2019,66.7,Total,,%,Normal value,,,15 years old and over
+Niger,NE,NER,562,Labour force participation rate,2019,60.8,Female,,%,Normal value,,,15 years old and over
+Niger,NE,NER,562,Labour force participation rate,2019,83.7,Male,,%,Normal value,,,15 years old and over
+Niger,NE,NER,562,Labour force participation rate,2019,72.1,Total,,%,Normal value,,,15 years old and over
+Nigeria,NG,NGA,566,Labour force participation rate,2019,48.5,Female,,%,Normal value,,,15 years old and over
+Nigeria,NG,NGA,566,Labour force participation rate,2019,63.1,Male,,%,Normal value,,,15 years old and over
+Nigeria,NG,NGA,566,Labour force participation rate,2019,55.9,Total,,%,Normal value,,,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force participation rate,2019,44.9,Female,,%,Normal value,,,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force participation rate,2019,66.2,Male,,%,Normal value,,,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force participation rate,2019,55.5,Total,,%,Normal value,,,15 years old and over
+Norway,NO,NOR,578,Labour force participation rate,2019,60.6,Female,,%,Normal value,,,15 years old and over
+Norway,NO,NOR,578,Labour force participation rate,2019,67.5,Male,,%,Normal value,,,15 years old and over
+Norway,NO,NOR,578,Labour force participation rate,2019,64.1,Total,,%,Normal value,,,15 years old and over
+Oman,OM,OMN,512,Labour force participation rate,2019,36,Female,,%,Normal value,,,15 years old and over
+Oman,OM,OMN,512,Labour force participation rate,2019,83.6,Male,,%,Normal value,,,15 years old and over
+Oman,OM,OMN,512,Labour force participation rate,2019,69.4,Total,,%,Normal value,,,15 years old and over
+Pakistan,PK,PAK,586,Labour force participation rate,2019,21.7,Female,,%,Normal value,,,15 years old and over
+Pakistan,PK,PAK,586,Labour force participation rate,2019,81.9,Male,,%,Normal value,,,15 years old and over
+Pakistan,PK,PAK,586,Labour force participation rate,2019,52.5,Total,,%,Normal value,,,15 years old and over
+Panama,PA,PAN,591,Labour force participation rate,2019,54.9,Female,,%,Normal value,,,15 years old and over
+Panama,PA,PAN,591,Labour force participation rate,2019,79.9,Male,,%,Normal value,,,15 years old and over
+Panama,PA,PAN,591,Labour force participation rate,2019,67.3,Total,,%,Normal value,,,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force participation rate,2019,46.4,Female,,%,Normal value,,,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force participation rate,2019,47.6,Male,,%,Normal value,,,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force participation rate,2019,47,Total,,%,Normal value,,,15 years old and over
+Paraguay,PY,PRY,600,Labour force participation rate,2019,60,Female,,%,Normal value,,,15 years old and over
+Paraguay,PY,PRY,600,Labour force participation rate,2019,85,Male,,%,Normal value,,,15 years old and over
+Paraguay,PY,PRY,600,Labour force participation rate,2019,72.7,Total,,%,Normal value,,,15 years old and over
+Peru,PE,PER,604,Labour force participation rate,2019,70.6,Female,,%,Normal value,,,15 years old and over
+Peru,PE,PER,604,Labour force participation rate,2019,85.3,Male,,%,Normal value,,,15 years old and over
+Peru,PE,PER,604,Labour force participation rate,2019,77.9,Total,,%,Normal value,,,15 years old and over
+Philippines,PH,PHL,608,Labour force participation rate,2019,47.1,Female,,%,Normal value,,,15 years old and over
+Philippines,PH,PHL,608,Labour force participation rate,2019,73.1,Male,,%,Normal value,,,15 years old and over
+Philippines,PH,PHL,608,Labour force participation rate,2019,60,Total,,%,Normal value,,,15 years old and over
+Poland,PL,POL,616,Labour force participation rate,2019,48.6,Female,,%,Normal value,,,15 years old and over
+Poland,PL,POL,616,Labour force participation rate,2019,65.9,Male,,%,Normal value,,,15 years old and over
+Poland,PL,POL,616,Labour force participation rate,2019,56.9,Total,,%,Normal value,,,15 years old and over
+Portugal,PT,PRT,620,Labour force participation rate,2019,54.7,Female,,%,Normal value,,,15 years old and over
+Portugal,PT,PRT,620,Labour force participation rate,2019,64.5,Male,,%,Normal value,,,15 years old and over
+Portugal,PT,PRT,620,Labour force participation rate,2019,59.3,Total,,%,Normal value,,,15 years old and over
+Qatar,QA,QAT,634,Labour force participation rate,2019,56.6,Female,,%,Normal value,,,15 years old and over
+Qatar,QA,QAT,634,Labour force participation rate,2019,94.8,Male,,%,Normal value,,,15 years old and over
+Qatar,QA,QAT,634,Labour force participation rate,2019,86.8,Total,,%,Normal value,,,15 years old and over
+"Korea, Republic of",KR,KOR,410,Labour force participation rate,2019,53.8,Female,,%,Normal value,,,15 years old and over
+South Korea,KR,KOR,410,Labour force participation rate,2019,53.8,Female,,%,Normal value,,,15 years old and over
+"Korea, Republic of",KR,KOR,410,Labour force participation rate,2019,72.8,Male,,%,Normal value,,,15 years old and over
+South Korea,KR,KOR,410,Labour force participation rate,2019,72.8,Male,,%,Normal value,,,15 years old and over
+"Korea, Republic of",KR,KOR,410,Labour force participation rate,2019,63.3,Total,,%,Normal value,,,15 years old and over
+South Korea,KR,KOR,410,Labour force participation rate,2019,63.3,Total,,%,Normal value,,,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force participation rate,2019,38.2,Female,,%,Normal value,,,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force participation rate,2019,45.2,Male,,%,Normal value,,,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force participation rate,2019,41.5,Total,,%,Normal value,,,15 years old and over
+Romania,RO,ROU,642,Labour force participation rate,2019,45.6,Female,,%,Normal value,,,15 years old and over
+Romania,RO,ROU,642,Labour force participation rate,2019,65.4,Male,,%,Normal value,,,15 years old and over
+Romania,RO,ROU,642,Labour force participation rate,2019,55.1,Total,,%,Normal value,,,15 years old and over
+Russian Federation,RU,RUS,643,Labour force participation rate,2019,54.6,Female,,%,Normal value,,,15 years old and over
+Russia,RU,RUS,643,Labour force participation rate,2019,54.6,Female,,%,Normal value,,,15 years old and over
+Russian Federation,RU,RUS,643,Labour force participation rate,2019,69.8,Male,,%,Normal value,,,15 years old and over
+Russia,RU,RUS,643,Labour force participation rate,2019,69.8,Male,,%,Normal value,,,15 years old and over
+Russian Federation,RU,RUS,643,Labour force participation rate,2019,61.5,Total,,%,Normal value,,,15 years old and over
+Russia,RU,RUS,643,Labour force participation rate,2019,61.5,Total,,%,Normal value,,,15 years old and over
+Rwanda,RW,RWA,646,Labour force participation rate,2019,83.9,Female,,%,Normal value,,,15 years old and over
+Rwanda,RW,RWA,646,Labour force participation rate,2019,83.2,Male,,%,Normal value,,,15 years old and over
+Rwanda,RW,RWA,646,Labour force participation rate,2019,83.6,Total,,%,Normal value,,,15 years old and over
+Saint Lucia,LC,LCA,662,Labour force participation rate,2019,68.8,Female,,%,Normal value,,,15 years old and over
+Saint Lucia,LC,LCA,662,Labour force participation rate,2019,76.3,Male,,%,Normal value,,,15 years old and over
+Saint Lucia,LC,LCA,662,Labour force participation rate,2019,72.5,Total,,%,Normal value,,,15 years old and over
+Saint Vincent and the Grenadines,VC,VCT,670,Labour force participation rate,2019,57,Female,,%,Normal value,,,15 years old and over
+Saint Vincent & the Grenadines,VC,VCT,670,Labour force participation rate,2019,57,Female,,%,Normal value,,,15 years old and over
+St. Vincent and the Grenadines,VC,VCT,670,Labour force participation rate,2019,57,Female,,%,Normal value,,,15 years old and over
+Saint Vincent and the Grenadines,VC,VCT,670,Labour force participation rate,2019,77.4,Male,,%,Normal value,,,15 years old and over
+Saint Vincent & the Grenadines,VC,VCT,670,Labour force participation rate,2019,77.4,Male,,%,Normal value,,,15 years old and over
+St. Vincent and the Grenadines,VC,VCT,670,Labour force participation rate,2019,77.4,Male,,%,Normal value,,,15 years old and over
+Saint Vincent and the Grenadines,VC,VCT,670,Labour force participation rate,2019,67.4,Total,,%,Normal value,,,15 years old and over
+Saint Vincent & the Grenadines,VC,VCT,670,Labour force participation rate,2019,67.4,Total,,%,Normal value,,,15 years old and over
+St. Vincent and the Grenadines,VC,VCT,670,Labour force participation rate,2019,67.4,Total,,%,Normal value,,,15 years old and over
+Samoa,WS,WSM,882,Labour force participation rate,2019,31.1,Female,,%,Normal value,,,15 years old and over
+Samoa,WS,WSM,882,Labour force participation rate,2019,55.5,Male,,%,Normal value,,,15 years old and over
+Samoa,WS,WSM,882,Labour force participation rate,2019,43.7,Total,,%,Normal value,,,15 years old and over
+Sao Tome and Principe,ST,STP,678,Labour force participation rate,2019,41.6,Female,,%,Normal value,,,15 years old and over
+Sao Tome and Principe,ST,STP,678,Labour force participation rate,2019,74.1,Male,,%,Normal value,,,15 years old and over
+Sao Tome and Principe,ST,STP,678,Labour force participation rate,2019,57.8,Total,,%,Normal value,,,15 years old and over
+Saudi Arabia,SA,SAU,682,Labour force participation rate,2019,22.1,Female,,%,Normal value,,,15 years old and over
+Saudi Arabia,SA,SAU,682,Labour force participation rate,2019,78.4,Male,,%,Normal value,,,15 years old and over
+Saudi Arabia,SA,SAU,682,Labour force participation rate,2019,55.9,Total,,%,Normal value,,,15 years old and over
+Senegal,SN,SEN,686,Labour force participation rate,2019,35.1,Female,,%,Normal value,,,15 years old and over
+Senegal,SN,SEN,686,Labour force participation rate,2019,57.4,Male,,%,Normal value,,,15 years old and over
+Senegal,SN,SEN,686,Labour force participation rate,2019,45.7,Total,,%,Normal value,,,15 years old and over
+Serbia,RS,SRB,688,Labour force participation rate,2019,47.9,Female,,%,Normal value,,,15 years old and over
+Serbia,RS,SRB,688,Labour force participation rate,2019,63,Male,,%,Normal value,,,15 years old and over
+Serbia,RS,SRB,688,Labour force participation rate,2019,55.2,Total,,%,Normal value,,,15 years old and over
+Sierra Leone,SL,SLE,694,Labour force participation rate,2019,57.5,Female,,%,Normal value,,,15 years old and over
+Sierra Leone,SL,SLE,694,Labour force participation rate,2019,58.3,Male,,%,Normal value,,,15 years old and over
+Sierra Leone,SL,SLE,694,Labour force participation rate,2019,57.9,Total,,%,Normal value,,,15 years old and over
+Singapore,SG,SGP,702,Labour force participation rate,2019,61.9,Female,,%,Normal value,,,15 years old and over
+Singapore,SG,SGP,702,Labour force participation rate,2019,78.3,Male,,%,Normal value,,,15 years old and over
+Singapore,SG,SGP,702,Labour force participation rate,2019,70.5,Total,,%,Normal value,,,15 years old and over
+Slovakia,SK,SVK,703,Labour force participation rate,2019,52.3,Female,,%,Normal value,,,15 years old and over
+Slovakia,SK,SVK,703,Labour force participation rate,2019,67.5,Male,,%,Normal value,,,15 years old and over
+Slovakia,SK,SVK,703,Labour force participation rate,2019,59.7,Total,,%,Normal value,,,15 years old and over
+Slovenia,SI,SVN,705,Labour force participation rate,2019,53.3,Female,,%,Normal value,,,15 years old and over
+Slovenia,SI,SVN,705,Labour force participation rate,2019,62.8,Male,,%,Normal value,,,15 years old and over
+Slovenia,SI,SVN,705,Labour force participation rate,2019,58,Total,,%,Normal value,,,15 years old and over
+Solomon Islands,SB,SLB,90,Labour force participation rate,2019,82.1,Female,,%,Normal value,,,15 years old and over
+Solomon Islands,SB,SLB,90,Labour force participation rate,2019,85.6,Male,,%,Normal value,,,15 years old and over
+Solomon Islands,SB,SLB,90,Labour force participation rate,2019,83.8,Total,,%,Normal value,,,15 years old and over
+Somalia,SO,SOM,706,Labour force participation rate,2019,22.2,Female,,%,Normal value,,,15 years old and over
+Somalia,SO,SOM,706,Labour force participation rate,2019,73.8,Male,,%,Normal value,,,15 years old and over
+Somalia,SO,SOM,706,Labour force participation rate,2019,47.7,Total,,%,Normal value,,,15 years old and over
+South Africa,ZA,ZAF,710,Labour force participation rate,2019,49.6,Female,,%,Normal value,,,15 years old and over
+South Africa,ZA,ZAF,710,Labour force participation rate,2019,62.9,Male,,%,Normal value,,,15 years old and over
+South Africa,ZA,ZAF,710,Labour force participation rate,2019,56.1,Total,,%,Normal value,,,15 years old and over
+South Sudan,SS,SSD,728,Labour force participation rate,2019,70.9,Female,,%,Normal value,,,15 years old and over
+South Sudan,SS,SSD,728,Labour force participation rate,2019,73.6,Male,,%,Normal value,,,15 years old and over
+South Sudan,SS,SSD,728,Labour force participation rate,2019,72.3,Total,,%,Normal value,,,15 years old and over
+Spain,ES,ESP,724,Labour force participation rate,2019,52.2,Female,,%,Normal value,,,15 years old and over
+Spain,ES,ESP,724,Labour force participation rate,2019,63.5,Male,,%,Normal value,,,15 years old and over
+Spain,ES,ESP,724,Labour force participation rate,2019,57.7,Total,,%,Normal value,,,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force participation rate,2019,33.6,Female,,%,Normal value,,,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force participation rate,2019,73.7,Male,,%,Normal value,,,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force participation rate,2019,52.5,Total,,%,Normal value,,,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force participation rate,2019,18.2,Female,,%,Normal value,,,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force participation rate,2019,70.1,Male,,%,Normal value,,,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force participation rate,2019,44.4,Total,,%,Normal value,,,15 years old and over
+Sudan,SD,SDN,736,Labour force participation rate,2019,29.4,Female,,%,Normal value,,,15 years old and over
+Sudan,SD,SDN,736,Labour force participation rate,2019,68.1,Male,,%,Normal value,,,15 years old and over
+Sudan,SD,SDN,736,Labour force participation rate,2019,48.5,Total,,%,Normal value,,,15 years old and over
+Suriname,SR,SUR,740,Labour force participation rate,2019,39.4,Female,,%,Normal value,,,15 years old and over
+Suriname,SR,SUR,740,Labour force participation rate,2019,64,Male,,%,Normal value,,,15 years old and over
+Suriname,SR,SUR,740,Labour force participation rate,2019,51.7,Total,,%,Normal value,,,15 years old and over
+Sweden,SE,SWE,752,Labour force participation rate,2019,61.2,Female,,%,Normal value,,,15 years old and over
+Sweden,SE,SWE,752,Labour force participation rate,2019,67.7,Male,,%,Normal value,,,15 years old and over
+Sweden,SE,SWE,752,Labour force participation rate,2019,64.4,Total,,%,Normal value,,,15 years old and over
+Switzerland,CH,CHE,756,Labour force participation rate,2019,62.9,Female,,%,Normal value,,,15 years old and over
+Switzerland,CH,CHE,756,Labour force participation rate,2019,73.4,Male,,%,Normal value,,,15 years old and over
+Switzerland,CH,CHE,756,Labour force participation rate,2019,68.1,Total,,%,Normal value,,,15 years old and over
+Syrian Arab Republic,SY,SYR,760,Labour force participation rate,2019,14.7,Female,,%,Normal value,,,15 years old and over
+Syrian Arab Republic,SY,SYR,760,Labour force participation rate,2019,74.4,Male,,%,Normal value,,,15 years old and over
+Syrian Arab Republic,SY,SYR,760,Labour force participation rate,2019,44.4,Total,,%,Normal value,,,15 years old and over
+Tajikistan,TJ,TJK,762,Labour force participation rate,2019,29.2,Female,,%,Normal value,,,15 years old and over
+Tajikistan,TJ,TJK,762,Labour force participation rate,2019,50.3,Male,,%,Normal value,,,15 years old and over
+Tajikistan,TJ,TJK,762,Labour force participation rate,2019,39.7,Total,,%,Normal value,,,15 years old and over
+Thailand,TH,THA,764,Labour force participation rate,2019,58.8,Female,,%,Normal value,,,15 years old and over
+Thailand,TH,THA,764,Labour force participation rate,2019,75.3,Male,,%,Normal value,,,15 years old and over
+Thailand,TH,THA,764,Labour force participation rate,2019,66.7,Total,,%,Normal value,,,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force participation rate,2019,61.9,Female,,%,Normal value,,,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force participation rate,2019,72.7,Male,,%,Normal value,,,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force participation rate,2019,67.3,Total,,%,Normal value,,,15 years old and over
+Togo,TG,TGO,768,Labour force participation rate,2019,56.2,Female,,%,Normal value,,,15 years old and over
+Togo,TG,TGO,768,Labour force participation rate,2019,61.4,Male,,%,Normal value,,,15 years old and over
+Togo,TG,TGO,768,Labour force participation rate,2019,58.8,Total,,%,Normal value,,,15 years old and over
+Tonga,TO,TON,776,Labour force participation rate,2019,38.1,Female,,%,Normal value,,,15 years old and over
+Tonga,TO,TON,776,Labour force participation rate,2019,56,Male,,%,Normal value,,,15 years old and over
+Tonga,TO,TON,776,Labour force participation rate,2019,46.9,Total,,%,Normal value,,,15 years old and over
+Trinidad and Tobago,TT,TTO,780,Labour force participation rate,2019,50.1,Female,,%,Normal value,,,15 years old and over
+Trinidad and Tobago,TT,TTO,780,Labour force participation rate,2019,70.6,Male,,%,Normal value,,,15 years old and over
+Trinidad and Tobago,TT,TTO,780,Labour force participation rate,2019,60.1,Total,,%,Normal value,,,15 years old and over
+Tunisia,TN,TUN,788,Labour force participation rate,2019,24.9,Female,,%,Normal value,,,15 years old and over
+Tunisia,TN,TUN,788,Labour force participation rate,2019,68.9,Male,,%,Normal value,,,15 years old and over
+Tunisia,TN,TUN,788,Labour force participation rate,2019,46.4,Total,,%,Normal value,,,15 years old and over
+Turkmenistan,TM,TKM,795,Labour force participation rate,2019,44.4,Female,,%,Normal value,,,15 years old and over
+Turkmenistan,TM,TKM,795,Labour force participation rate,2019,72.1,Male,,%,Normal value,,,15 years old and over
+Turkmenistan,TM,TKM,795,Labour force participation rate,2019,57.9,Total,,%,Normal value,,,15 years old and over
+Turkey,TR,TUR,792,Labour force participation rate,2019,34.3,Female,,%,Normal value,,,15 years old and over
+Turkey,TR,TUR,792,Labour force participation rate,2019,72.2,Male,,%,Normal value,,,15 years old and over
+Turkey,TR,TUR,792,Labour force participation rate,2019,52.8,Total,,%,Normal value,,,15 years old and over
+Uganda,UG,UGA,800,Labour force participation rate,2019,66.9,Female,,%,Normal value,,,15 years old and over
+Uganda,UG,UGA,800,Labour force participation rate,2019,73.4,Male,,%,Normal value,,,15 years old and over
+Uganda,UG,UGA,800,Labour force participation rate,2019,70,Total,,%,Normal value,,,15 years old and over
+Ukraine,UA,UKR,804,Labour force participation rate,2019,46.9,Female,,%,Normal value,,,15 years old and over
+Ukraine,UA,UKR,804,Labour force participation rate,2019,62.9,Male,,%,Normal value,,,15 years old and over
+Ukraine,UA,UKR,804,Labour force participation rate,2019,54.2,Total,,%,Normal value,,,15 years old and over
+United Arab Emirates,AE,ARE,784,Labour force participation rate,2019,52,Female,,%,Normal value,,,15 years old and over
+United Arab Emirates,AE,ARE,784,Labour force participation rate,2019,93.4,Male,,%,Normal value,,,15 years old and over
+United Arab Emirates,AE,ARE,784,Labour force participation rate,2019,82,Total,,%,Normal value,,,15 years old and over
+United Kingdom,GB,GBR,826,Labour force participation rate,2019,58.1,Female,,%,Normal value,,,15 years old and over
+United Kingdom,GB,GBR,826,Labour force participation rate,2019,68,Male,,%,Normal value,,,15 years old and over
+United Kingdom,GB,GBR,826,Labour force participation rate,2019,63,Total,,%,Normal value,,,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force participation rate,2019,79.7,Female,,%,Normal value,,,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force participation rate,2019,87.2,Male,,%,Normal value,,,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force participation rate,2019,83.4,Total,,%,Normal value,,,15 years old and over
+United States,US,USA,840,Labour force participation rate,2019,56.8,Female,,%,Normal value,,,15 years old and over
+United States,US,USA,840,Labour force participation rate,2019,68.6,Male,,%,Normal value,,,15 years old and over
+United States,US,USA,840,Labour force participation rate,2019,62.6,Total,,%,Normal value,,,15 years old and over
+Uruguay,UY,URY,858,Labour force participation rate,2019,55.5,Female,,%,Normal value,,,15 years old and over
+Uruguay,UY,URY,858,Labour force participation rate,2019,73.2,Male,,%,Normal value,,,15 years old and over
+Uruguay,UY,URY,858,Labour force participation rate,2019,63.9,Total,,%,Normal value,,,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force participation rate,2019,48.8,Female,,%,Normal value,,,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force participation rate,2019,75,Male,,%,Normal value,,,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force participation rate,2019,61.7,Total,,%,Normal value,,,15 years old and over
+Vanuatu,VU,VUT,548,Labour force participation rate,2019,61,Female,,%,Normal value,,,15 years old and over
+Vanuatu,VU,VUT,548,Labour force participation rate,2019,78.8,Male,,%,Normal value,,,15 years old and over
+Vanuatu,VU,VUT,548,Labour force participation rate,2019,69.9,Total,,%,Normal value,,,15 years old and over
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Labour force participation rate,2019,42,Female,,%,Normal value,,,15 years old and over
+Venezuela,VE,VEN,862,Labour force participation rate,2019,42,Female,,%,Normal value,,,15 years old and over
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Labour force participation rate,2019,74.9,Male,,%,Normal value,,,15 years old and over
+Venezuela,VE,VEN,862,Labour force participation rate,2019,74.9,Male,,%,Normal value,,,15 years old and over
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Labour force participation rate,2019,57.9,Total,,%,Normal value,,,15 years old and over
+Venezuela,VE,VEN,862,Labour force participation rate,2019,57.9,Total,,%,Normal value,,,15 years old and over
+Viet Nam,VN,VNM,704,Labour force participation rate,2019,72.7,Female,,%,Normal value,,,15 years old and over
+Vietnam,VN,VNM,704,Labour force participation rate,2019,72.7,Female,,%,Normal value,,,15 years old and over
+Viet Nam,VN,VNM,704,Labour force participation rate,2019,82.2,Male,,%,Normal value,,,15 years old and over
+Vietnam,VN,VNM,704,Labour force participation rate,2019,82.2,Male,,%,Normal value,,,15 years old and over
+Viet Nam,VN,VNM,704,Labour force participation rate,2019,77.4,Total,,%,Normal value,,,15 years old and over
+Vietnam,VN,VNM,704,Labour force participation rate,2019,77.4,Total,,%,Normal value,,,15 years old and over
+Yemen,YE,YEM,887,Labour force participation rate,2019,6,Female,,%,Normal value,,,15 years old and over
+Yemen,YE,YEM,887,Labour force participation rate,2019,70.6,Male,,%,Normal value,,,15 years old and over
+Yemen,YE,YEM,887,Labour force participation rate,2019,38.3,Total,,%,Normal value,,,15 years old and over
+Zambia,ZM,ZMB,894,Labour force participation rate,2019,70.4,Female,,%,Normal value,,,15 years old and over
+Zambia,ZM,ZMB,894,Labour force participation rate,2019,78.8,Male,,%,Normal value,,,15 years old and over
+Zambia,ZM,ZMB,894,Labour force participation rate,2019,74.5,Total,,%,Normal value,,,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force participation rate,2019,78.1,Female,,%,Normal value,,,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force participation rate,2019,88.9,Male,,%,Normal value,,,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force participation rate,2019,83.1,Total,,%,Normal value,,,15 years old and over

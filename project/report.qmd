@@ -1,0 +1,155 @@
+---
+title: "Visualisations"
+format: html
+editor: visual
+---
+
+This project was an exploration of global labour force participation rates and average life expectancy.
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(maps)
+library(tidyverse)
+library(plotly)
+library(viridis)
+
+metadata <- read.csv("unicef_metadata.csv")
+indicator <- read.csv("unicef_indicator_2.csv")
+```
+
+```{r}
+
+# Visualisation 1 World Map
+
+# Clean data for visualization one.
+vis1 <- dplyr::select(indicator, country, obs_value)
+
+# Obtain average for each country.
+vis1 <- dplyr::reframe(vis1, .by = country, "Labour Force Participation Rate" = mean(.data[["obs_value"]], na.rm = TRUE))
+
+# Get longitude and latitude for each country.
+coords <- map_data("world")
+
+# Remove unnecessary columns.
+coords <- dplyr::select(coords, -order, -subregion)
+
+# Correct mismatching country names.
+coords$region[coords$region == "USA"] <- "United States"
+coords$region[coords$region == "Russian Federation"] <- "Russia"
+coords$region[coords$region == "Democratic Republic of the Congo"] <- "Congo, the Democratic Republic of the"
+coords$region[coords$region == "Republic of Congo"] <- "Congo"
+coords$region[coords$region == "Iran"] <- "Iran, Islamic Republic of"
+coords$region[coords$region == "Syria"] <- "Syrian Arab Republic"
+coords$region[coords$region == "Tanzania"] <- "Tanzania, United Republic of"
+coords$region[coords$region == "Laos"] <- "Lao People's Democratic Republic"
+coords$region[coords$region == "UK"] <- "United Kingdom"
+coords$region[coords$region == "Moldova"] <- "Moldova, Republic of"
+coords$region[coords$region == "North Macedonia"] <- "Macedonia, the former Yugoslav Republic of"
+coords$region[coords$region == "North Korea"] <- "Korea, Democratic People's Republic of"
+
+# Join longitude and latitude co-ordinates with data.
+vis1 <- dplyr::full_join(vis1, coords, by = c("country" = "region"))
+
+v1 <- ggplot(vis1) +
+  aes(x = long, y = lat, group = group, fill = `Labour Force Participation Rate`, text = paste("Country:", country)) +
+  labs(title="Labour Force Participation Rate by Country", subtitle = "2019") +
+  theme_void() +
+  borders() +
+  scale_fill_viridis(option="viridis", direction = -1) +
+  theme(plot.title = element_text(size = 12, hjust = 0.5),
+        plot.subtitle = element_text(size = 10, hjust = 0.5),
+        plot.caption = element_text(size = 8, hjust = 1)) +
+  coord_fixed(ratio = 1.205458) +
+  geom_polygon()
+
+plotly::ggplotly(v1)
+```
+
+Visual 1 unveils a world map shaded by average labour participation rates, revealing Africa as a standout region with notably higher rates compared to the rest of the world. This stark contrast prompts further investigation into the factors influencing this disparity.
+
+```{r}
+
+# Visualisation 2 Bar Chart
+
+# Clean unicef metadata for visualisation 2.
+vis2 <- dplyr::select(metadata, country, year, `Life.expectancy.at.birth..total..years.`)
+
+# Rename the awkward columns.
+colnames(vis2) <- c("Country", "Year", "Life Expectancy")
+
+colours <- seq(1:4)
+
+v2 <- vis2 %>%
+  # We are comparing this data to 2019 labour force participation rates
+  # therefore we are only interested in 2019 data.
+  filter(Year == 2019) %>%
+  arrange(`Life Expectancy`) %>%
+  # Filter the 35 countries with the lowest life expectancy.
+  slice(1:35) %>%
+  ggplot(aes(Country, `Life Expectancy`)) +
+  geom_bar(stat="identity") +
+  coord_flip()
+
+plotly::ggplotly(v2)
+```
+
+The bar chart, Visual 2, displaying the 35 lowest life expectancies globally offers a concise overview of the regions facing significant health disparities. It shows that every country is below the average world life expectancy of 75.
+
+```{r}
+
+# Visualisation 3 Scatter Plot
+
+# Combine 2019 labour force participation rates with 2019 life expectancies.
+# Get average labour force participation as we did for vis 1.
+vis3 <- indicator %>%
+  select(country, obs_value) %>%
+  reframe(.by = country, "Labour Force Participation Rate" = mean(.data[["obs_value"]], na.rm = TRUE)) %>%
+  full_join(metadata %>%
+              filter(year == 2019) %>%
+              select(country, `Life.expectancy.at.birth..total..years.`), by = "country") %>%
+  filter(!is.na(`Life.expectancy.at.birth..total..years.`)) %>%
+  filter(!is.na(`Labour Force Participation Rate`))
+              
+# Rename the awkward columns.
+colnames(vis3) <- c("Country", "Labour Force Participation Rate", "Average Life Expectancy")
+
+v3 <- ggplot(vis3, aes(x=`Labour Force Participation Rate`, y=`Average Life Expectancy`)) + 
+  geom_point() +
+  geom_smooth(method="lm", se=FALSE, color="red")
+
+plotly::ggplotly(v3)
+```
+
+Delving deeper into the relationship between labour participation and life expectancy, Visual 3 presents a scatter plot juxtaposing the average observed value of labour participation against life expectancy at birth. Interpreting the linear regression line reveals a non-existent or weak negative correlation between labour force participation rate and average life expectancy.
+
+```{r}
+
+# Visualisation 4 Time-Series Chart
+
+# Isolate Madagascar data for the time series chart.
+vis4 <- metadata %>%
+  filter(country == "Madagascar") %>%
+  select(country, year, `Life.expectancy.at.birth..total..years.`)
+
+# Rename the awkward columns.
+colnames(vis4) <- c("Country", "Year", "Average Life Expectancy")
+
+v4 <- vis4 %>% 
+  ggplot(aes(Year, `Average Life Expectancy`)) +
+  labs(title="Average Life Expectancy Madagascar") +
+  geom_line()
+
+plotly::ggplotly(v4)
+```
+
+The upward trend in Madagascar's life expectancy (highest labour
+rate in the world), from 43 years in 1960 to 65 years in 2019, may partly stem
+from its high labour rate. A robust workforce suggests economic activity, which
+could have translated into improved healthcare infrastructure and access to
+services.
+
+# Conclusion
+
+To summarise, these visualizations provide a nuanced portrait of the intricate dynamics shaping labour participation and life expectancy on a global scale, underscoring the pressing need for targeted interventions to address disparities and promote equitable access to opportunities and healthcare services worldwide, although this is not true for every country.
